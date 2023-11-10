@@ -5,7 +5,7 @@ overall_composition = {aa: 0 for aa in "ACDEFGHIKLMNPQRSTVWY"}
 overall_aa_count = 0
 
 if len(sys.argv) != 2:
-    print("Usage: python script.py <fasta_file>")
+    print("Usage: python overallaacomp.py <fasta_file>")
     sys.exit(1)
 
 fasta_file_path = sys.argv[1]
