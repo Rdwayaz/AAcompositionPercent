@@ -15,7 +15,7 @@ LSENEARKKFWQILSAVEYCHDHHIVHRDLKTENLLLDGNMDIKLADFGFGNFYKSGEPL
 STWCGSPPYAAPEVFEGKEYEGP
 
 
-**Usage:** python overallaacomp.py "<FASTAFILE>"
+**Usage:** python overallaacomp.py FILE
 
 
 _**If you wish to get the composition of many individual files, you can simply iterate over the files.**_
